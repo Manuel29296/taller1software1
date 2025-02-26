@@ -1,6 +1,9 @@
-from cubo import Empaque, CuboFlexible, CuboRigido, Cubo
+
 
 # Ejemplo de uso
+from cubos.cubo import Cubo, CuboFlexible, CuboRigido, Empaque
+
+
 if __name__ == "__main__":
     
     # Crear instancias de cubos
