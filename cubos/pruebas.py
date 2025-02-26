@@ -1,7 +1,6 @@
 
-
 # Ejemplo de uso
-from cubos.cubo import Cubo, CuboFlexible, CuboRigido, Empaque
+from cubo import Cubo, CuboFlexible, CuboRigido, Empaque
 
 
 if __name__ == "__main__":
